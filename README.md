@@ -3,6 +3,9 @@
 ## About the project
 Program allows user to either encrypt or automatically decode messages with Cezar Cipher.
 
+### Language
+  *c++14
+
 ### What is Cezar Cipher
 The simplest way to encrypt text messages is with no doubt Cezar Cipher. Each character is shifted by some natural number called key i.e. a -> c with key = 2. If key is greater than the number of letters in alphabet, number is wrapped around with modulo operator: key = 27 will result in actual key = 1. 
 In this program only lower-case letters are encrypted, every other character such as numbers or spaces are ommited.
