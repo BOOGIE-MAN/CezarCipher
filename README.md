@@ -16,6 +16,9 @@ The idea lies in calculating the frequency of each letter appearing in the strin
 ## How to run it
 It can be run through Visual Studio 2022 in any configuration or directly from the .exe file[BUT only if files "statisticsEn.txt" and "secretMessage.txt" are present in the same directory as .exe]
 
+### Platform
+Windows 10
+
 ### Input restrictions
 In encryption mode any string consisting of lower-case letter, spaces, commas, numbers etc. is considered valid. However ONLY lower-case letters can encrypted/decoded, rest is left as it is.
 Program will only work with messages in English. The longer the message is the better programs key predictions are in automatic decoding mode.
