@@ -22,6 +22,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="secretMessage.txt" />
     <Text Include="statisticsEn.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

@@ -21,5 +21,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="statisticsEn.txt" />
+    <Text Include="secretMessage.txt" />
   </ItemGroup>
 </Project>
